@@ -1,0 +1,39 @@
+body
+{
+	background-image:url("footer_lodyas.png");
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#title
+{
+	font-size:28px;
+	width:700px;
+	border:2px solid #000000;
+	text-align:center;
+	background-color:#866365;
+	border-radius:10px;
+	padding:10px;
+	float:left;
+}
+#banan
+{
+	width:276px;
+	float:left;
+	resize: both;
+	
+}
+canvas
+{
+	cursor: none;
+}
+#footer
+{
+	width:990px;
+	height:20px;
+	background-color:rgba(76, 175, 80, 0.1);
+	margin-top:5px;
+	border-radius:5px;
+	padding:5px;
+}
